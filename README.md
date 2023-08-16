@@ -1,9 +1,6 @@
 # Microsoft-Teams-Integration.
  <!DOCTYPE html>
 <html>
-<head>
-    <title>Microsoft Integration using Microsoft Graph API</title>
-</head>
 <body>
     <h1>Microsoft Integration using Microsoft Graph API</h1>
     <p>This repository contains sample code and instructions on how to integrate with Microsoft Graph API to interact with chat messages and channels in Microsoft Teams.</p>
