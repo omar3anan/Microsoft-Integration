@@ -1,4 +1,4 @@
-# Microsoft-Integration.
+# Microsoft-Teams-Integration.
  <!DOCTYPE html>
 <html>
 <head>
